@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Hooman and I'm a Backend Programmer,
+I'm Hooman Zohrevand and I'm a Backend Programmer,
 I'm currently working with Django and Django Rest Framework  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
