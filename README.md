@@ -1,18 +1,3 @@
-![Header](/[github-header-image.png])
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Hi there 👋
 I'm Hooman Zohrevand and I'm a Backend Programmer,
