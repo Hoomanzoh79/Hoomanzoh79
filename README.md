@@ -1,7 +1,8 @@
 
 ### Hi there 👋
-I'm Hooman Zohrevand and I'm a Backend Programmer,
+I'm Hooman Zohrevand,a Backend developer,
 I'm currently working with Django and Django Rest Framework  
+Interested in learning data analysis
 
 Languages and Tools:
 
