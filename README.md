@@ -3,7 +3,8 @@
 I'm Hooman Zohrevand,a Backend developer,
 I'm currently working with Django and Django Rest Framework  
 I love programming and everything about it
-Interested in learning data analysis
+
+Interested in learning Data Analysis 🧐
 
 Languages and Tools:
 
