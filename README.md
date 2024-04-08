@@ -1,10 +1,10 @@
 
 ### Hi there 👋
-I'm Hooman Zohrevand,a Backend Developer.
+I'm Hooman Zohrevand,a Backend Developer
 
 currently working with Django and Django Rest Framework  
 
-I have completed my bachelor's in Biomedical Engineering but my passion for programming took me to Backend Development and Python Programming 🐍
+I have completed my bachelor's in Biomedical Engineering but my passion for programming has led me to Backend Development and Python Programming 🐍
 
 Interested in learning Data Analysis 🧐
 
