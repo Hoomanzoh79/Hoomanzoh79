@@ -6,7 +6,7 @@ currently working with Django and Django Rest Framework
 
 I have completed my bachelor's in Biomedical Engineering but my passion for programming has led me to backend development and python programming 🐍
 
-Interested in learning Data Analysis 🧐
+Interested in learning aata analysis 🧐
 
 ### Languages and Tools 🔨:
 
