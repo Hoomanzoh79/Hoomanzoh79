@@ -20,6 +20,14 @@ Interested in learning data analysis 🧐
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
  [![Hooman's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Hoomanzoh79&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+ 
+ check out my first website on:
+ https://hz-clothing-store.liara.run/
