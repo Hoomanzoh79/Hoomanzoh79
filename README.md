@@ -26,5 +26,5 @@ Interested in learning data analysis 🧐
  [![Hooman's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Hoomanzoh79&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
-### visit my first website [Here]( https://hz-clothing-store.liara.run/) 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
+###  visit my first website [Here]( https://hz-clothing-store.liara.run/) 
