@@ -24,7 +24,7 @@ Interested in learning data analysis <img src="https://raw.githubusercontent.com
 
 
 
- [![Hooman's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Hoomanzoh79&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+ [![Hooman's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Hoomanzoh79&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
  ![Hooman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoomanzoh79&show_icons=true&theme=radical)
 
