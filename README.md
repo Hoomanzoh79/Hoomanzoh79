@@ -24,8 +24,7 @@ Interested in learning data analysis <img src="https://raw.githubusercontent.com
 
 
 
- [![Hooman's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Hoomanzoh79&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)      
- ![Hooman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoomanzoh79&show_icons=true&theme=react)
+ [![Hooman's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Hoomanzoh79&theme=react)](https://github.com/DenverCoder1/github-readme-streak-stats)     ![Hooman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoomanzoh79&show_icons=true&theme=react)
 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> VISIT MY FIRST WEBSITE [Here]( https://hz-clothing-store.liara.run/) OR CLICK THIS LINK: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" />
