@@ -24,7 +24,7 @@ Interested in learning data analysis <img src="https://raw.githubusercontent.com
 </div>
 
 <div align="center">
-	![Hooman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoomanzoh79&show_icons=true&theme=react)
+	(https://github-readme-stats.vercel.app/api?username=Hoomanzoh79&show_icons=true&theme=react)
 </div>
 
 
