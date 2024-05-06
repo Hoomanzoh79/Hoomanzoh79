@@ -23,7 +23,7 @@ Interested in learning data analysis <img src="https://raw.githubusercontent.com
 	<img width="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 </div>
 
-<span>"               "</span>
+<span>  </span>
 
 
 ![Hooman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoomanzoh79&show_icons=true&theme=react)
