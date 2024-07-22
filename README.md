@@ -34,7 +34,7 @@ Interested in learning data analysis <img src="https://raw.githubusercontent.com
 
 <div >
 	
-<a href="https://www.linkedin.com/in/hooman-zohrevand/" rel="nofollow"><img src="https://user-images.githubusercontent.com/91287064/208878686-01604f88-f0ac-4709-9cfc-2cc69b62d1aa.png" alt="Linkedin-HoomanZohrevand" width="70" height="70" style="max-width: 100%;"></a> <a href="https://t.me/Hooman_Zoh" rel="nofollow"><i class="ci ci-spotify ci-2x"></i> alt="Telegram-HoomanZohrevand" width="45" height="60" align="top" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/hooman-zohrevand/" rel="nofollow"><img src="https://user-images.githubusercontent.com/91287064/208878686-01604f88-f0ac-4709-9cfc-2cc69b62d1aa.png" alt="Linkedin-HoomanZohrevand" width="70" height="70" style="max-width: 100%;"></a> <a href="https://t.me/Hooman_Zoh" rel="nofollow"><i class="ci ci-spotify ci-2x"></i>
 </a>
 
 </div>
