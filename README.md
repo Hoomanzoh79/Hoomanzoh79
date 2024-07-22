@@ -26,3 +26,4 @@ Interested in learning data analysis <img src="https://raw.githubusercontent.com
 
 ![Hooman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoomanzoh79&show_icons=true&theme=blueberry)
 
+<a href="https://www.linkedin.com/in/hooman-zohrevand/" rel="nofollow"><img src="https://user-images.githubusercontent.com/91287064/208878686-01604f88-f0ac-4709-9cfc-2cc69b62d1aa.png" alt="Linkedin-HoomanZohrevand" width="70" height="70" style="max-width: 100%;"></a>
