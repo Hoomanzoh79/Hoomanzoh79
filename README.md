@@ -33,12 +33,14 @@ Interested in learning data analysis <img src="https://raw.githubusercontent.com
 
 <space>
 
-<h1>
+<h2>
 	 
  Socials 🌐 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> :
 
 <a href="https://www.linkedin.com/in/hooman-zohrevand/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="35" height="35" />
+</a> <a href="hoomanemi1999@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/gmail.png" alt="Gmail" title="Gmail" width="35" height="35" />
 </a>
 
 </h1>
