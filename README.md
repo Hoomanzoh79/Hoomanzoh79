@@ -39,7 +39,7 @@ Interested in learning data analysis <img src="https://raw.githubusercontent.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hooman-zohrevand/) 
 <a href="https://twitter.com/danielhendricks/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" title="Twitter" width="25" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="25" height="25" />
 </a>
 
 </h1>
