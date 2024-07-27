@@ -37,8 +37,8 @@ Interested in learning data analysis <img src="https://raw.githubusercontent.com
 	 
  Socials 🌐 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> :
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hooman-zohrevand/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="25" height="25" />
+<a href="https://www.linkedin.com/in/hooman-zohrevand/">
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="35" height="35" />
 </a>
 
 </h1>
