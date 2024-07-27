@@ -39,7 +39,7 @@ Interested in learning data analysis <img src="https://raw.githubusercontent.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hooman-zohrevand/) 
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[(http://www.twitter.com/carlsednaoui)]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 [3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
 [4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
