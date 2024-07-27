@@ -40,7 +40,7 @@ Interested in learning data analysis <img src="https://raw.githubusercontent.com
 <a href="https://www.linkedin.com/in/hooman-zohrevand/">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="35" height="35" />
 </a> <a href="hoomanemi1999@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/gmail.png" alt="Gmail" title="Gmail" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/g-mail.png" alt="Gmail" title="Gmail" width="35" height="35" />
 </a>
 
 </h1>
