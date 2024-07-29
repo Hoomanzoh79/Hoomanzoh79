@@ -17,6 +17,7 @@ Interested in learning data analysis <img src="https://raw.githubusercontent.com
 <div >
 	<img src="https://skillicons.dev/icons?i=python"/>
 	<img src="https://skillicons.dev/icons?i=django"/>
+	<img src="https://skillicons.dev/icons?i=fastapi"/>
 	<img src="https://skillicons.dev/icons?i=postgres"/>
 	<img src="https://skillicons.dev/icons?i=docker"/>
 	<img src="https://skillicons.dev/icons?i=redis"/>
