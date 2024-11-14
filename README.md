@@ -4,7 +4,7 @@
 
 I'm Hooman and I'm a backend developer 
 
-currently working with Django and Django Rest Framework  
+currently working with Django,Django Rest Framework and FastAPI  
 
 I have completed my bachelor's in Biomedical Engineering but my passion for programming has led me to web development and programming with python <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="25" height="25" />
 
