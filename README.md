@@ -4,7 +4,7 @@
 
 I'm Hooman and I'm a Backend Developer 
 
-currently working with FastAPI,Django and Django Rest Framework to develope scalable and efficient microservices at Treata Software Company 
+I'm Currently working with FastAPI,Django and Django Rest Framework to develop scalable and efficient microservices at Treata Software Company 
 
 I have completed my bachelor's in Biomedical Engineering but my passion for programming has led me to web development and programming with python <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="25" height="25" />
 
