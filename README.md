@@ -2,9 +2,9 @@
  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
 </h1>
 
-I'm Hooman and I'm a backend developer 
+I'm Hooman and I'm a Backend Developer 
 
-currently working with Django,Django Rest Framework and FastAPI  
+currently working with FastAPI,Django and Django Rest Framework to develope scalable and efficient microservices at Treata Software Company 
 
 I have completed my bachelor's in Biomedical Engineering but my passion for programming has led me to web development and programming with python <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="25" height="25" />
 
@@ -15,14 +15,14 @@ I have completed my bachelor's in Biomedical Engineering but my passion for prog
 
 <div >
 	<img src="https://skillicons.dev/icons?i=python"/>
-	<img src="https://skillicons.dev/icons?i=django"/>
 	<img src="https://skillicons.dev/icons?i=fastapi"/>
+	<img src="https://skillicons.dev/icons?i=django"/>
+	<img src="https://skillicons.dev/icons?i=rabbitmq"/>
 	<img src="https://skillicons.dev/icons?i=postgres"/>
 	<img src="https://skillicons.dev/icons?i=docker"/>
+	<img src="https://skillicons.dev/icons?i=kubernetes"/>
 	<img src="https://skillicons.dev/icons?i=redis"/>
-	<img src="https://skillicons.dev/icons?i=postman"/>
 	<img width="45" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
-	<img width="45" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
 </div>
 
 <span>  </span>
