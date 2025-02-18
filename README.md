@@ -21,7 +21,6 @@ I have completed my bachelor's in Biomedical Engineering but my passion for prog
 	<img src="https://skillicons.dev/icons?i=postgres"/>
 	<img src="https://skillicons.dev/icons?i=docker"/>
 	<img src="https://skillicons.dev/icons?i=redis"/>
-	<img width="45" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
 </div>
 
 <span>  </span>
