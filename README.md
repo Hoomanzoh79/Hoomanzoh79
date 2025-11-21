@@ -15,7 +15,6 @@ ML & Image Processing enthusiast 🤔
 
 <div >
 	<img src="https://skillicons.dev/icons?i=python"/>
-	<img src="https://skillicons.dev/icons?i=golang"/>
 	<img src="https://skillicons.dev/icons?i=fastapi"/>
 	<img src="https://skillicons.dev/icons?i=django"/>
 	<img src="https://skillicons.dev/icons?i=rabbitmq"/>
