@@ -8,7 +8,6 @@ I'm Currently working with FastAPI,Django and Django Rest Framework to develop s
 
 I have completed my bachelor's in Biomedical Engineering but my passion for programming has led me to web development and programming with python <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="25" height="25" />  
 
-ML & Image Processing enthusiast 🤔
 <h2>
  Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> :
 </h2>
@@ -30,11 +29,6 @@ ML & Image Processing enthusiast 🤔
 
 <span>  </span>
 
-<space>
-	
-![Hooman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoomanzoh79&show_icons=true&theme=blueberry)
-
-<space>
 
 <h2>
 	 
