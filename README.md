@@ -14,6 +14,7 @@ I have completed my bachelor's in Biomedical Engineering but my passion for prog
 
 <div >
 	<img src="https://skillicons.dev/icons?i=python"/>
+	<img src="https://skillicons.dev/icons?i=golang"/>
 	<img src="https://skillicons.dev/icons?i=fastapi"/>
 	<img src="https://skillicons.dev/icons?i=django"/>
 	<img src="https://skillicons.dev/icons?i=rabbitmq"/>
