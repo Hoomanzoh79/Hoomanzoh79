@@ -23,9 +23,9 @@ Currently learning GO
 	<img src="https://skillicons.dev/icons?i=postgres"/>
 	<img src="https://skillicons.dev/icons?i=redis"/>
 	<img src="https://skillicons.dev/icons?i=mongodb"/>
-	<img src="https://skillicons.dev/icons?i=elasticsearch"/>
 	<img src="https://skillicons.dev/icons?i=docker"/>
 	<img src="https://skillicons.dev/icons?i=gitlab"/>
+	<img src="https://skillicons.dev/icons?i=docker"/>
 	<img src="https://skillicons.dev/icons?i=ubuntu"/>
 </div>
 
