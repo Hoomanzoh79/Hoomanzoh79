@@ -2,7 +2,7 @@
  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
 </h1>
 
-I'm Currently working with FastAPI,Django & DRF to develop scalable and efficient microservices at Treata Software Company \
+I'm Currently using FastAPI & DRF to develop scalable and efficient microservices at Treata Software Company \
 I have completed my bachelor's in Biomedical Engineering but my passion for programming has led me to Backend Development \
 I love to create cool stuff & learn new things everyday, Currently learning Go 🧐
 <h2>
