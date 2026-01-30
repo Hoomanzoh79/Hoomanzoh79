@@ -2,13 +2,9 @@
  Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" />
 </h1>
 
-I'm Hooman and I'm a Backend Developer 
-
-I'm Currently working with FastAPI,Django & DRF to develop scalable and efficient microservices at Treata Software Company 
-
-I have completed my bachelor's in Biomedical Engineering but my passion for programming has led me to web development and programming with python <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="25" height="25" />  
-Currently learning GO 
-
+I'm Currently working with FastAPI,Django & DRF to develop scalable and efficient microservices at Treata Software Company \
+I have completed my bachelor's in Biomedical Engineering but my passion for programming has led me to Backend Development \
+I love to create cool stuff & learn new things everyday, Currently learning Go 🧐
 <h2>
  Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> :
 </h2>
