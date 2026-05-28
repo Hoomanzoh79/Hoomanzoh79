@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Python+Dev+🐍;Focused+on+Backend;Using+Django+&+FastAPI)\
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Python+Dev+🐍;Focused+on+Backend+Using+Django+&+FastAPI)\
 crafting robust microservices for enterprise apps. Passionate about learning and building cool tech 🛠️
 <h2>
  Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> :
