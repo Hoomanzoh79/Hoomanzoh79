@@ -31,3 +31,6 @@ crafting robust microservices for enterprise apps. Passionate about learning and
 </a> 
 
 </h1>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hoomanzoh79&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoomanzoh79&layout=compact)
