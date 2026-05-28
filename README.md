@@ -1,4 +1,4 @@
-Python Dev 🐍\
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Python+Dev+🐍;Focused+on+Backend;Using+Django+&+FastAPI)\
 crafting robust microservices for enterprise apps. Passionate about learning and building cool tech 🛠️
 <h2>
  Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> :
@@ -32,4 +32,14 @@ crafting robust microservices for enterprise apps. Passionate about learning and
 
 </h1>
 
-![My GitHub Contribution Stats](https://github-contribution-card.vercel.app/api?username=Hoomanzoh79&theme=tokyonight&type=contributions)
+
+## Profile Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hoomanzoh79&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hoomanzoh79&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hoomanzoh79&theme=tokyonight" />
+</p>
