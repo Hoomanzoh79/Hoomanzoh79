@@ -23,15 +23,22 @@ Crafting robust microservices for enterprise apps,passionate about learning and 
 
 
 <h2>
-	 
- Socials 🌐 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> :
+ Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands" width="25" height="25" />
+</h2>
 
-<a href="https://www.linkedin.com/in/hooman-zohrevand/">
-  <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/linkedin.png" alt="Linkedin" title="Linkedin" width="35" height="35" />
-</a> 
+<p align="left">
+  <a href="https://www.linkedin.com/in/hooman-zohrevand/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-</h1>
+  <a href="mailto:hoomanemi1999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
+  <a href="https://t.me/the_real_hooman" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 ## Profile Analytics
 
