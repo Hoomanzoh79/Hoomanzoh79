@@ -35,9 +35,6 @@ Crafting robust microservices for enterprise apps,passionate about learning and 
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://t.me/the_real_hooman" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
 </p>
 
 ## Profile Analytics
